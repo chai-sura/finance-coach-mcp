@@ -1,6 +1,6 @@
 """
 Finance Coach Dashboard - Main Homepage
-Shows financial health score, monthly summary and quick stats.
+Shows financial health score, monthly summary.
 """
 
 import streamlit as st

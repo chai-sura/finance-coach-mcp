@@ -1,0 +1,10 @@
+{
+  "pythonVersion": "3.11",
+  "venvPath": ".",
+  "venv": "fin_env",
+  "include": [
+    "mcp_server",
+    "dashboard",
+    "utils"
+  ]
+}

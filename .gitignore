@@ -1,0 +1,24 @@
+# Environment variables (NEVER commit API keys)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+fin_env/
+
+# VSCode
+.vscode/
+
+# Mac junk
+.DS_Store
+
+# Data files
+data/*.json
